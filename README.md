@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Manoj  
-- 🔭 I’m currently learning webdevelopment
+- 🔭 I’m currently learning webdevelopment, Java, Python, C++
 - 💬 Ask me about HTML and CSS
-- 📫 How to reach me: Discord Leo
+- 📫 How to reach me: Discord : Leo.0799  
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like cats
 - I am a student
-- Eager to learn!
+- Eager to learn more all the time
+- Deeply interested in research, innovation and development
